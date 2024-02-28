@@ -188,7 +188,7 @@ export default {
 
 .product-image:hover {
   transform: scale(1.3);
-  cursor:zoom-in;
+  cursor: zoom-in;
 }
 
 .product-name {
